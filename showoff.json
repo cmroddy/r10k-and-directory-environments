@@ -1,0 +1,55 @@
+{
+  "name": "R10k and Directory Environments",
+  "description": "Managing Puppet code using R10k and directory environments",
+  "protected": ["presenter", "onepage", "print"],
+  "user": "puppet",
+  "password": "password",
+  "version": "0.9.6.1",
+  "feedback": false,
+  "sections": [
+
+    "Meta/Cover.md",
+    "Meta/Contents.md",
+
+    "Environments/Cover.md",
+    "Environments/Environments.md",
+    "Environments/Config_file.md",
+    "Environments/Dynamic.md",
+    "Environments/Files.md",
+    "Environments/Directory.md",
+    "Environments/Hiera.md",
+    "Environments/Future.md",
+
+    "Monolithic/Cover.md",
+    "Monolithic/Etc_puppet.md",
+    "Monolithic/Environment_repo.md",
+    "Monolithic/Problems.md",
+
+    "R10k/Cover.md",
+    "R10k/What_is.md",
+    "R10k/Fundamentals.md",
+    "R10k/Control_repo.md",
+    "R10k/Puppetfile.md",
+    "R10k/Control_branches.md",
+    "R10k/Control_branches2.md",
+    "R10k/Environments.md",
+    "R10k/Feature_branches.md",
+    "R10k/Production_environment.md",
+    "R10k/Production_environment2.md",
+    "R10k/Development_lifecycle.md",
+    "R10k/Development_lifecycle2.md",
+
+    "Master/Cover.md",
+    "Master/Contents.md",
+    "Master/Directory.md",
+    "Master/Control_repo.md",
+    "Master/Gem_install.md",
+    "Master/R10k_yaml.md",
+    "Master/Run_r10k.md",
+    "Master/Auto_deploy.md",
+    "Master/Zack.md",
+    "Master/Gotchas.md",
+
+    "Meta/QA.md"
+  ]
+}
